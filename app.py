@@ -4,8 +4,8 @@ def add (a:int, b:int, c:int) -> int:
 def sub(a: int, b: int) -> int:
     return a - b
 
-def mul(a: int, b: int) -> int:
-    return a * b
+def mul(a: int, b: int, c: int) -> int:
+    return a * b *c
 
 def div(a: int, b: int, c:int) -> float:
     return a / b
