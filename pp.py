@@ -1,2 +1,2 @@
 def mul():
-    a+b
+    a+b+c
